@@ -7,4 +7,8 @@ Project ideas that I've had and reasons why they were created, attempted or aban
 
 ## Lofi Radio for Casual Coding
 - Description: raspberry pi that plugs into CC projector through HDMI and streams Lofi video from youtube
-- Status: Research phase
+- Status: waiting to go to miami to get raspberry pis
+
+## Food app
+- Description: uses whatever google maps api exists to show restaurants around. User can filter by type of food, pickup/delivery/dine-in, whats open. Like google maps but just restaurants.
+- Status: research phase
