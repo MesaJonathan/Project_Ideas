@@ -11,4 +11,4 @@ Project ideas that I've had and reasons why they were created, attempted or aban
 
 ## Food app
 - Description: uses whatever google maps api exists to show restaurants around. User can filter by type of food, pickup/delivery/dine-in, whats open. Like google maps but just restaurants.
-- Status: research phase
+- Status: Abandoned :(. Turns out google maps does have exactly what I wanted to make already implemented to the point where it's not worth it to remake it.
